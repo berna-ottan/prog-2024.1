@@ -13,3 +13,5 @@ print(c1)
 print(gerente.email)
 gerente.trocar_email("ze@banco.com.br")
 print(gerente.email)
+
+#essa é minha brant bernardo
